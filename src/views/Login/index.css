@@ -1,0 +1,36 @@
+/* .login-form {
+  max-width: 300px;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+} */
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+
+.div-login {
+  width: 300px;
+  height: 300px;
+
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 20px;
+  /* margin-top: 20vh; */
+
+  background-color: white;
+
+  display: flex;
+  place-content: center;
+  min-height: 100vh;
+}
+
+.div-login-logo {
+  height: 150px;
+  width: 200px;
+  align-self: center;
+}
